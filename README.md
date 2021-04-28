@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shakilahmed.info/](https://shakilahmed.info/)
 
-- 💬 Ask me about **Lravel, php**
+- 💬 Ask me about **Laravel, php**
 
 - 📫 How to reach me **sakilhossain01969@gmail.com**
 
