@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shakil Ahmed</h1>
 <h3 align="center">A passionate Backend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning: **ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://shakilahmed.info/](https://shakilahmed.info/)
+- 👨‍💻 All of my projects are available at: [https://shakilahmed.info/](https://shakilahmed.info/)
 
-- 💬 Ask me about **Laravel, php**
+- 💬 Ask me about: **Laravel, php**
 
-- 📫 How to reach me **sakilhossain01969@gmail.com**
+- 📫 How to reach me: **sakilhossain01969@gmail.com**
 
-- ⚡ Fun fact **That still alive :v**
+- ⚡ Fun fact: **That still alive :v**
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	<a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /> </a>
