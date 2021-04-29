@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shakil Ahmed</h1>
 <h3 align="center">A passionate Backend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakilahmed007&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmed007" /> </p>
-
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakilAhmed007&amp;theme=radical&amp;langs_count=6&amp;layout=compact" rel="nofollow"><img alt="Shakil Ahmed Activity Graph" src="https://camo.githubusercontent.com/a7b1ef14ad9aed21ce28ffc8a02ac15218aa6c00d32f4fe8cbc374d63a4ab457/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d72796968616e267468656d653d7261646963616c266c616e67735f636f756e743d36266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakilAhmed007&amp;theme=radical&amp;langs_count=6&amp;layout=compact" style="max-width:100%;"></a>
- </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShakilAhmed007&count_private=true&show_icons=true&theme=dracula" />
+</a>
 
 - 🌱 I’m currently learning **ReactJs**
 
@@ -38,8 +35,7 @@
 	<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ShakilAhmed007&count_private=true&show_icons=true&theme=dracula" />
-</a>
+
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakilAhmed007&theme=dracula" />
 </a>
