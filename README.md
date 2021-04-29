@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **sakilhossain01969@gmail.com**
 
-- ⚡ Fun fact: **That still alive :v**
+- ⚡ Fun fact: **That i am still alive :v**
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	<a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /> </a>
