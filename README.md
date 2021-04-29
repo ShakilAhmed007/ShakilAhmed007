@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shakil Ahmed</h1>
 <h3 align="center">A passionate Backend developer from Bangladesh</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShakilAhmed007&count_private=true&show_icons=true&theme=dracula" />
-</a>
-
 - 🌱 I’m currently learning **ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://shakilahmed.info/](https://shakilahmed.info/)
@@ -35,7 +32,8 @@
 	<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
 </p>
 
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ShakilAhmed007&count_private=true&show_icons=true&theme=dracula" />
+</a>
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakilAhmed007&theme=dracula" />
 </a>
